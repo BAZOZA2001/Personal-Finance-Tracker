@@ -1,5 +1,4 @@
 # Personal-Finance-Tracker
-A web application to manage personal finances, track transactions, generate reports, and visualize data.
 
 ### Deployment Link: https://expense-tracker-app-three-beryl.vercel.app/
 
